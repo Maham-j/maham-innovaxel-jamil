@@ -73,6 +73,7 @@ url_shortener/
 ├── database.py
 ├── routes.py
 ├── models.py
+└── requirements.txt
 ```
 
 ---
